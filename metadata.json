@@ -1,0 +1,6 @@
+{
+  "name": "3D Blink – Tetrahedral Capture",
+  "description": "A turn-based 3D tactical strategy game played inside a glowing cloud of dots. Build tetrahedrons to capture and destroy dots trapped within.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
